@@ -1,5 +1,7 @@
 # Campus Companion
 
+[Live demo](https://campus-companion-rouge.vercel.app) · [GitHub repository](https://github.com/sricantreddy/campus-companion)
+
 A higher-education student support agent built around a simple promise: every answer must come from an authorized record or a stated planning assumption.
 
 The workspace pairs a mobile student chat with an operational inspector. Students check attendance, coursework deadlines, project teams, semester dates, and download a 16-week study timetable. The inspector exposes intent, confidence, tool input and result, model, prompt and dataset versions, execution latency, and client round-trip latency. It never displays private chain-of-thought.
